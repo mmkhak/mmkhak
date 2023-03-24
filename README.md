@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **go , nuxt , flutter**
 
-- 💬 Ask me about **laravel , php**
+- 💬 Ask me about **laravel , php , python**
 
 - 📫 How to reach me **khakdamanmohammadmahdi@gmail.com**
 
