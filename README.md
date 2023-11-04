@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmkhakdaman&label=Profile%20views&color=0e75b6&style=flat" alt="mmkhakdaman" /> </p>
 
-- 🔭 I’m currently working on [emrooz app](https://emrooz.ir/app)
+- 🔭 I’m currently working on [coffeeya](https://coffeeya.ir)
 
-- 🌱 I’m currently learning **go , nuxt , flutter**
+- 🌱 I’m currently learning **flutter**
 
-- 💬 Ask me about **laravel , php , python**
+- 💬 Ask me about **laravel , php , python, flutter**
 
 - 📫 How to reach me **khakdamanmohammadmahdi@gmail.com**
 
