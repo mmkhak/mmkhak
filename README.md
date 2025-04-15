@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmkhakdaman&label=Profile%20views&color=0e75b6&style=flat" alt="mmkhakdaman" /> </p>
 
-- 🔭 I’m currently working on [coffeeya](https://coffeeya.ir)
+- 🔭 I’m currently working on [bimebazar](https://bimebazar.com)
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **Nest JS**
 
 - 💬 Ask me about **laravel , php , python, flutter**
 
